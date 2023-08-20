@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/xml-apis-1.0.b2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/xmlbeans-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-codec-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/itext-2.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/poi-ooxml-3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ooxml-schemas-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/stax-api-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/fr.opensagres.xdocreport.itext.extension-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/org.apache.poi.xwpf.converter.core-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/org.apache.poi.xwpf.converter.xhtml-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/poi-3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/org.apache.poi.xwpf.converter.pdf-1.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

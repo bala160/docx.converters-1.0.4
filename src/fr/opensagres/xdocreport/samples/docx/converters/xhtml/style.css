@@ -1,0 +1,30 @@
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px; /* Slightly increased padding for better alignment */
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold; /* Make headers bold for better readability */
+}
+
+/* Style paragraphs inside tables */
+td p {
+    margin: 0; /* Remove default paragraph margins for cleaner alignment */
+}
+
+/* Style headers inside tables */
+td h1, td h2, td h3, td h4, td h5, td h6 {
+    margin: 5px 0; /* Adjust margin for better header alignment */
+    font-weight: bold; /* Make headers bold for better visibility */
+}
+/* You can add more specific styles for special characters as needed */
+
